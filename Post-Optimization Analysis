@@ -47,7 +47,7 @@ X12 - 0 units should be shipped to Okitipupa.
 # REDUCED COST
 Shows the value of cost that must be removed from the objective cost before it can be considered in the optimal equation.
 Possibly variables, environmental factors or external factors could reduce the objective cost beyond these reduced costs, then we could consider them in our equation.
-In words considering variable 12 (x12), cost of each unit in Offa must be reduced by 80.02 naira from 148.75 Naira to 68.73 Naira, for us to consider it in our optimal equation.
+In other words considering variable 12 (x12), cost of each unit in Offa must be reduced by 80.02 naira from 148.75 Naira to 68.73 Naira, for us to consider it in our optimal equation.
 Highest in X12 with value 80.12 naira, next in X6 with 62.98 Naira and Lowest in X8 valued 3.65
 
 # SINCE TRANSPORTATION COST IS HEAVILY DEPENDENT ON EACH UNIT OF STEEL ROD
@@ -59,4 +59,4 @@ Benin to Lagos – About 14 trucks
 Benin to Sagamu - About 4 trucks
 
 Offa to Ibadan  - 12 trucks
-Offa to Sagamu – Perfect 6 trucks
+Offa to Sagamu – 6 perfectly filled trucks
