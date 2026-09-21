@@ -1,0 +1,62 @@
+# TRANSPORTATION COST MATRIX
+Transportation cost matrix submitted by the distribution teams from each warehouse is used to calculate the transportation cost of each bar. It includes the average vehicle condition ( in terms of fuel efficiency), road condition which could significantly affect transportation cost due to wear and tear maintenance cost, actual amount of fuel in each of the locations( note that it varies slightly) and fuel availability which is another important constraint to be considered in Nigeria transportation system.
+
+# Cost of transporting each bar
+Using the magnitudes of feasible distances from the warehouses to the markets, the cost of transporting each bar is calculated (Table image attached with document), taking into consideration the variables in the submitted matrix including road condition (RC) and fuel availability (FA) factor.
+
+# Solution Models
+The Linear Programming model was programmed into a Linear Programming Software (LiPS 1.11.1). Variables ranging from X1 to X12.  Each Variable represent possible values that need to be shipped from specific warehouse to specific seasonal market to achieve optimum cost of distribution.
+X1 – Ikere to Lagos
+X2 – Ikere to Ibadan
+X3 – Ikere to Sagamu
+X4 – Ikere to Okitipupa
+X4 – Benin to Lagos
+X6 – Benin to Ibadan
+X7 – Benin to Okitipupa
+X8 – Benin to Sagamu
+X9 – Offa to Lagos
+X10 – Offa to Ibadan
+X11 – Offa to Sagamu
+X12 – Offa to Okitipupa
+The Objective Function is to minimize cost as much as possible whilst fulfilling the market demand. 
+Computed using function “min” while summing the product of the possible quantities from each warehouse and respective cost of shipping per unit bar of steel.
+
+The model Labelled “A” represent the DEMAND constraints summing up to the forecasted demand (17,000 in Lagos, 14,500 in Ibadan, 11,000 in Sagamu and 8300 in Okitipupa)
+The model labelled “B” represent the SUPPLY constraints which may be less than or equal to the capacity of each respective warehouse (20,000 in Ikere, 22,000 in Benin City and 20,000 in Offa)
+
+# RESULTS AS DISPLAYED FROM GRAPH
+Result shows that for most optimum cost which is 7,636,440 naira
+FROM IKERE
+X1 - 0 unit should be shipped from Ikere to Lagos
+X2 - 500 units should be shipped from Ikere to Ibadan (6TH Highest)
+X3 - 0 unit should be shipped from Ikere to Sagamu
+X4 - 8300 units should be shipped from Ikere to Okitipupa (3rd Highest)
+
+# FROM BENIN
+X5 - 17000 units should be shipped to Lagos (Highest)
+X6 - 0 unit should be shipped to Ibadan
+X7 - 5000 units should be shipped to Sagamu (5TH Highest)
+X8 - 0 unit should be shipped to Okitipupa
+
+# FROM OFFA
+X9 - 0 units should be shipped to Lagos
+X10 - 14000 units should be shipped to Ibadan (2ND Highest)
+X11 - 6000 units should be shipped to Sagamu (4TH Highest)
+X12 - 0 units should be shipped to Okitipupa. 
+
+# REDUCED COST
+Shows the value of cost that must be removed from the objective cost before it can be considered in the optimal equation.
+Possibly variables, environmental factors or external factors could reduce the objective cost beyond these reduced costs, then we could consider them in our equation.
+In words considering variable 12 (x12), cost of each unit in Offa must be reduced by 80.02 naira from 148.75 Naira to 68.73 Naira, for us to consider it in our optimal equation.
+Highest in X12 with value 80.12 naira, next in X6 with 62.98 Naira and Lowest in X8 valued 3.65
+
+# SINCE TRANSPORTATION COST IS HEAVILY DEPENDENT ON EACH UNIT OF STEEL ROD
+# TRUCKS ALLOCATION
+Ikere to Ibadan -  one 42% Filled Truck
+Ikere to Okitipupa - 6 full trucks and one 90% filled truck
+
+Benin to Lagos – About 14 trucks
+Benin to Sagamu - About 4 trucks
+
+Offa to Ibadan  - 12 trucks
+Offa to Sagamu – Perfect 6 trucks
