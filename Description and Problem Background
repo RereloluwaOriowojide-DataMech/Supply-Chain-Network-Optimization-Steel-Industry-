@@ -1,8 +1,8 @@
 #STEEL COMPANY DISTRIBUTION ANALYTICS
 
 #Problem Background:
-A steel company in Kano State Nigeria has its major western stable markets in Ekiti, Edo and Kwara State Nigeria and seasonal markets in precisely Ibadan (Oyo State), Sagamu (Ogun State), Okitipupa (Ondo State) and Lagos State Nigeria.
-The few periods of demands from these seasonal markets usually result in massive revenue, but due to cost of warehousing and market instability, the company often relies on its warehouse in stable markets for supplying them.
+A steel company in Kano State Nigeria has its major western stable markets in Ekiti, Edo and Kwara State Nigeria and seasonal markets in Ibadan (Oyo State), Sagamu (Ogun State), Okitipupa (Ondo State) and Lagos State Nigeria.
+The few periods of demand from these seasonal markets usually result in massive revenue, but due to cost of warehousing and market instability, the company often relies on its warehouse in stable markets for supplying them.
 However, transportation cost per bar of steel changes occasionally dependent on major factors such as fuel price, fuel availability and road conditions.
 Specifically, HOWO trucks are used for transporting the bars which could contain maximum of 1200 bars of steel.
 Also, the trucks fuel efficiency varies, which has a great influence on the total distribution cost spreading to the average cost a single bar is shipped.
@@ -23,7 +23,7 @@ Benin City 22,00 units
 Offa 20,000 units
 
 #Additional Cost consideration:
-From the transportation cost matrix submitted by the distribution teams, a unit decrease in Road Condition Factor and the Fuel Availability factor (RC and FA factor) attracts an additional transportation cost with is 8% of the estimated fuel cost.
+From the transportation cost matrix submitted by the distribution teams, a unit decrease in Road Condition Factor and the Fuel Availability factor (RC and FA factor) attracts an additional transportation cost which is 8% of the estimated fuel price.
 On a scale of 5 for each factor, an ideal transportation matrix shows an aggregate of 10 for resulting in no additional cost in distribution.
 
 
