@@ -51,12 +51,24 @@ In other words considering variable 12 (x12), cost of each unit in Offa must be 
 Highest in X12 with value 80.12 naira, next in X6 with 62.98 Naira and Lowest in X8 valued 3.65
 
 # SINCE TRANSPORTATION COST IS HEAVILY DEPENDENT ON EACH UNIT OF STEEL ROD
-# TRUCKS ALLOCATION
+# TRUCKS ALLOCATION 
 Ikere to Ibadan -  one 42% Filled Truck
 Ikere to Okitipupa - 6 full trucks and one 90% filled truck
 
 Benin to Lagos – About 14 trucks
 Benin to Sagamu - About 4 trucks
 
-Offa to Ibadan  - 12 trucks
+Offa to Ibadan  - About 11 and half trucks
 Offa to Sagamu – 6 perfectly filled trucks
+
+# RECOMMENDATION
+To meet the demands in Ibadan 11 full trucks should be sent first from Offa. Hopefully, demand from Ibadan can increase, causing 396 units to be added to the 67% filled trucks from Offa. Futher demands can trigger an additional 696 units needed to make a full shipment from Ikere. 
+
+To meet the demand in Okitipupa, 6 full trucks should be sent first with the hope of an increase in demand that will pull a full shipment, provided the cost of holding 1080 bars of steel is significantly lower than not optimizing 10% of the truck. Otherwise, 90% remaining to make a full shipment should be sent along eith the full 6 trucks
+
+To meet the demand in Lagos, shipping just 192 units in a truck will result in a great loss, however from Benin, 14 trucks should be sent first. An increase in demand from Lagos may warrant an additional full shipment.
+
+To meet the demand in Sagamu, the first perfectly filled 6 trucks from Offa should be shipped as well as 4 filled trucks from Benin. 192 units should be scheduled later until an optimal amount is demanded.
+
+However, the company can also consider options such as 3rd Party logistics that can ship lesser units of steel bar for a fair price if it demands need to be met urgently, also unused spaces can be sold to a 3rd party shipper moving in similar route to optimize cost.
+
