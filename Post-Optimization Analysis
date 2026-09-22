@@ -61,14 +61,14 @@ Benin to Sagamu - About 4 trucks
 Offa to Ibadan  - About 11 and half trucks
 Offa to Sagamu – 6 perfectly filled trucks
 
-# RECOMMENDATION
+# SUPPLY RECOMMENDATION
 To meet the demands in Ibadan 11 full trucks should be sent first from Offa. Hopefully, demand from Ibadan can increase, causing 396 units to be added to the 67% filled trucks from Offa. Futher demands can trigger an additional 696 units needed to make a full shipment from Ikere. 
-
 To meet the demand in Okitipupa, 6 full trucks should be sent first with the hope of an increase in demand that will pull a full shipment, provided the cost of holding 1080 bars of steel is significantly lower than not optimizing 10% of the truck. Otherwise, 90% remaining to make a full shipment should be sent along eith the full 6 trucks
-
 To meet the demand in Lagos, shipping just 192 units in a truck will result in a great loss, however from Benin, 14 trucks should be sent first. An increase in demand from Lagos may warrant an additional full shipment.
-
 To meet the demand in Sagamu, the first perfectly filled 6 trucks from Offa should be shipped as well as 4 filled trucks from Benin. 192 units should be scheduled later until an optimal amount is demanded.
-
 However, the company can also consider options such as 3rd Party logistics that can ship lesser units of steel bar for a fair price if it demands need to be met urgently, also unused spaces can be sold to a 3rd party shipper moving in similar route to optimize cost.
 
+# PRIORITIZING RESTOCK FROM KANO
+Pareto Chart shows that about 44% (from the cumulative curve) of the total demand (50800 units) from seasonal markets is supplied from Benin City. Aggregate of Benin City to Lagos (x5 of 17000 units) and Benin City to Sagamu (x7 of 5000 units). This consumes almost all the warehouse capacity of 22000 units. This calls for an urgent restock from the manufacturing factory in Kano. 
+In the same manner, supplies from Offa which covers about 39% of the total demand, consume the total warehouse capacity. Aggregate of Offa to Ibadan (x10 of 14000 units) and Offa to Sagamu (x11 of 6000 units). Also calls for an urgent restock to meet demands in stable markets in Offa in the same manner.
+Lastly, supplies from Ikere accounting for about 17% of the total demands. Aggregate of Ikere to Okitipupa (x4 of 8300units) and Ikere to Ibadan (x4 of 500units). This implies, after meeting seasonal market demand, the warehouse still has enough (slightly above 17000 units) in stock to cover demands from stable markets in Ikere.   
